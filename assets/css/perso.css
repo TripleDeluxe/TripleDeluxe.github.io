@@ -1,0 +1,40 @@
+strong a{
+    color: skyblue;
+    text-decoration: underline;
+}
+
+.menu{
+    position: fixed;
+    border-width: medium;
+    border-color: black;
+    border-style: solid;
+    padding: 2% 3% 2% 0%;
+    margin-left: 2%;
+    margin-top: 2%;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
+    display: block;
+}
+
+.menu nav ul{
+    list-style-type: none;
+    display: block;
+}
+
+.menu nav ul li a{
+    color: #169956;
+    display: block;
+    border-color: aliceblue;
+    text-align: center;
+}
+
+.img-membre{
+    width: 20%;
+    border: black;
+    float: left;
+    margin-right: 3%;
+}
+
+ul{
+    list-style-type: none;
+    display: block;
+}
